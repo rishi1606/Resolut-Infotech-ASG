@@ -1,0 +1,32 @@
+.navbar
+{
+   
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    position: fixed;
+    background: black;
+    
+}
+
+.navarea
+{
+    list-style: none;
+}
+.navarea li{
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 15px;
+  
+}
+.navbar input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }
+  
